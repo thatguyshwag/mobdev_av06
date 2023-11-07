@@ -1,0 +1,10 @@
+Exercicios 
+
+
+============
+1. Faça o codigo dessa app funcionar, print a execução para evidenciar o funcionamento, modifique o Titulo da aplicação de Posts para Posts (<nome-do-aluno>);
+2.   Crie um questionário abordando os conceitos envolvidos na aplicação, como:
+2.1 Bloc como está implementado nessa app. Identificar os componentes da arquitetura Bloc dentro do código;
+2.2 A estrutura de pastas da app para atender questões como modularização, componentes e funcionalidades;  
+2.3  Que dados são tratados pelo Gerenciamento de Estado.
+============
